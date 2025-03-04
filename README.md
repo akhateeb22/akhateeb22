@@ -1,4 +1,4 @@
-# 👋 Welcome, I'm Abd-allah!
+# 👋 Welcome, I'm Abd!
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akhateeb175/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/akhateeb22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakhateeb22&screen_name=akhateeb22)
