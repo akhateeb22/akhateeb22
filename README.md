@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Abd!
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akhateeb175/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abdkhateeb/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/akhateeb22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fakhateeb22&screen_name=akhateeb22)
 [![Docker Hub Profile](https://img.shields.io/badge/Docker_Hub-Profile-blue?color=1DA1F2&logo=docker&style=for-the-badge)](https://hub.docker.com/u/akhateeb22)
 [![Medium Profile](https://img.shields.io/badge/Medium-Profile-blue?color=1DA1F2&logo=medium&style=for-the-badge)](https://medium.com/@akhateeb175)
